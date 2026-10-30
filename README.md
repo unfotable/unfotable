@@ -30,7 +30,7 @@
 <h3 align="center"> &nbsp;ABOUT&nbsp; </h3>
 
 <p align="center">
-I build small, calm web tools: the kind that open with a double-click.<br/>
+𝑰 𝒃𝒖𝒊𝒍𝒅 𝒄𝒂𝒍𝒎 𝒘𝒆𝒃 𝒕𝒐𝒐𝒍𝒔: 𝒕𝒉𝒆 𝒌𝒊𝒏𝒅 𝒕𝒉𝒂𝒕 𝒐𝒑𝒆𝒏 𝒘𝒊𝒕𝒉 𝒂 𝒅𝒐𝒖𝒃𝒍𝒆-𝒄𝒍𝒊𝒄𝒌.<br/>
 <code>no build step</code> &nbsp;·&nbsp; <code>zero dependencies</code> &nbsp;·&nbsp; <code>your data stays in your browser</code>
 </p>
 
