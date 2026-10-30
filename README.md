@@ -18,7 +18,7 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/unfotable.dev-0c0c0d?style=flat-square&logo=instagram&logoColor=e4405f)](https://www.instagram.com/unfotable.dev/)
+[![Instagram](https://img.shields.io/badge/follow-0c0c0d?style=flat-square&logo=instagram&logoColor=e4405f)](https://www.instagram.com/arc.of.dev/)
 [![Instagram](https://img.shields.io/badge/devanshu.fps-0c0c0d?style=flat-square&logo=instagram&logoColor=e4405f)](https://www.instagram.com/devanshu.fps/)
 [![Email](https://img.shields.io/badge/Email-0c0c0d?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:termi9al@gmail.com)
 [![Live apps](https://img.shields.io/badge/Live%20apps-0c0c0d?style=flat-square&logo=cloudflare&logoColor=f38020)](https://syncro.unfo.workers.dev/)
