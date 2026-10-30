@@ -23,7 +23,7 @@
 [![Email](https://img.shields.io/badge/Email-0c0c0d?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:termi9al@gmail.com)
 [![Live apps](https://img.shields.io/badge/Live%20apps-0c0c0d?style=flat-square&logo=cloudflare&logoColor=f38020)](https://syncro.unfo.workers.dev/)
 
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+‧˚₊‧ ┈┈┈ ⟡ ┈┈┈ ‧₊˚⊹
 
 </div>
 
@@ -102,7 +102,7 @@ I build small, calm web tools: the kind that open with a double-click.<br/>
 
 <div align="center">
 
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+‧˚₊‧ ┈┈┈ ⟡ ┈┈┈ ‧₊˚⊹
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=7DDC82&center=true&vCenter=true&width=520&height=34&duration=2200&pause=1600&lines=PRESS+START;THANKS+FOR+VISITING">
