@@ -50,7 +50,7 @@ I build small, calm web tools: the kind that open with a double-click.<br/>
 
 <h3 align="center"> &nbsp;PROJECTS&nbsp; </h3>
 
-#### 🧾 Hisaab &nbsp;<sub>[`unfotable/splid`](https://github.com/unfotable/splid)</sub>
+#### 🧾 SPLID &nbsp;<sub>[`unfotable/splid`](https://github.com/unfotable/splid)</sub>
 
 > **Who owes whom, at a glance.** A zero-backend expense splitter for trips, flatmates and dinners. Equal, custom or percentage splits, an animated SVG balance graph (Direct and Simplified views), settle-up and an activity timeline.
 
