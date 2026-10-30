@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="pixel-hero.gif" alt="Welcome to Hisaab. Who owes whom, at a glance." width="800" />
+![Alternative text description]("C:\Users\devan\Downloads\pixel-hero.gif")
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=44&color=F2EFE8&center=true&vCenter=true&width=640&height=84&repeat=false&pause=1000&lines=HISAAB">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=44&color=0C0C0D&center=true&vCenter=true&width=640&height=84&repeat=false&pause=1000&lines=HISAAB" alt="HISAAB" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=7DDC82&center=true&vCenter=true&width=640&height=40&duration=2800&pause=1300&lines=WHO+OWES+WHOM,+AT+A+GLANCE.;NO+SIGN-UP.+NO+SERVER.;SPLIT+IT.+SETTLE+IT.+FORGET+IT.">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=226A28&center=true&vCenter=true&width=640&height=40&duration=2800&pause=1300&lines=WHO+OWES+WHOM,+AT+A+GLANCE.;NO+SIGN-UP.+NO+SERVER.;SPLIT+IT.+SETTLE+IT.+FORGET+IT." alt="Who owes whom, at a glance. No sign-up. No server. Split it. Settle it. Forget it." />
+</picture>
 
 <br/>
 
@@ -18,7 +27,7 @@
 
 </div>
 
-<div align="center"><img src="h-about.png" alt="About" width="800" /></div>
+<h3 align="center">░▒▓ &nbsp;ABOUT&nbsp; ▓▒░</h3>
 
 <p align="center">
 <b>Hisaab</b> (<i>हिसाब</i>, "the accounts") is a lightweight expense splitter for groups: trips, flatmates, dinners, anything shared.<br/>
@@ -39,7 +48,7 @@ Log an expense, pick a split, and a live balance graph shows exactly who owes wh
 
 <br/>
 
-<div align="center"><img src="h-features.png" alt="Features" width="800" /></div>
+<h3 align="center">░▒▓ &nbsp;FEATURES&nbsp; ▓▒░</h3>
 
 - 👥 **Groups & members:** create any number of groups, add or remove people at any time
 - ⚖️ **Flexible splits:** equal, custom amounts, or percentages, set per expense
@@ -52,7 +61,7 @@ Log an expense, pick a split, and a live balance graph shows exactly who owes wh
 
 <br/>
 
-<div align="center"><img src="h-how.png" alt="How it works" width="800" /></div>
+<h3 align="center">░▒▓ &nbsp;HOW IT SIMPLIFIES&nbsp; ▓▒░</h3>
 
 Every expense updates a pairwise ledger between members, and settlements subtract from it. From that ledger Hisaab derives three things: the **direct edges** (real person-to-person debts), each member's **net balance**, and the **simplified payments**, the fewest transfers that zero everyone out.
 
@@ -107,7 +116,7 @@ flowchart TD
 
 <br/>
 
-<div align="center"><img src="h-start.png" alt="Quick start" width="800" /></div>
+<h3 align="center">░▒▓ &nbsp;QUICK START&nbsp; ▓▒░</h3>
 
 Clone or download the project, then open `index.html` in a browser, or serve the folder with any static file server:
 
@@ -126,9 +135,7 @@ That's it. On first load the app seeds a demo group ("Goa Trip") so there's some
 ├── index.html   # entry point: CDN script tags, Tailwind config and the app shell
 ├── app.js       # components, state, money math, demo data
 ├── styles.css   # form primitives, keyframe animations, range-input styling
-├── logo_s.svg   # logo
-├── pixel-hero.gif / pixel-footer.gif   # README banner GIFs
-└── h-*.png      # README section headers
+└── logo_s.svg   # logo
 ```
 
 <br/>
@@ -142,7 +149,7 @@ That's it. On first load the app seeds a demo group ("Goa Trip") so there's some
 
 <br/>
 
-<div align="center"><img src="h-privacy.png" alt="Privacy" width="800" /></div>
+<h3 align="center">░▒▓ &nbsp;DATA &amp; PRIVACY&nbsp; ▓▒░</h3>
 
 > Hisaab stores everything under a single `localStorage` key, `hisaab.v2`. There is no server, no account and no network request involving your data. Clearing the browser's storage for the page resets the app to the seeded demo.
 
@@ -152,7 +159,10 @@ That's it. On first load the app seeds a demo group ("Goa Trip") so there's some
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
-<img src="pixel-footer.gif" alt="Happy splitting, by Devanshu." width="800" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=7DDC82&center=true&vCenter=true&width=520&height=34&duration=2200&pause=1600&lines=PRESS+START;HAPPY+SPLITTING">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=226A28&center=true&vCenter=true&width=520&height=34&duration=2200&pause=1600&lines=PRESS+START;HAPPY+SPLITTING" alt="Press start. Happy splitting." />
+</picture>
 
 Built by [**@unfotable**](https://github.com/unfotable) &nbsp;·&nbsp; Also made: [**SYNCRO**](https://github.com/unfotable/syncro), notes, sheets and boards in one tab
 
