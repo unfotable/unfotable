@@ -27,7 +27,7 @@
 
 </div>
 
-<h3 align="center">░▒▓ &nbsp;ABOUT&nbsp; ▓▒░</h3>
+<h3 align="center"> &nbsp;ABOUT&nbsp; </h3>
 
 <p align="center">
 I build small, calm web tools: the kind that open with a double-click.<br/>
@@ -48,7 +48,7 @@ I build small, calm web tools: the kind that open with a double-click.<br/>
 
 <br/>
 
-<h3 align="center">░▒▓ &nbsp;PROJECTS&nbsp; ▓▒░</h3>
+<h3 align="center"> &nbsp;PROJECTS&nbsp; </h3>
 
 #### 🧾 Hisaab &nbsp;<sub>[`unfotable/splid`](https://github.com/unfotable/splid)</sub>
 
@@ -70,7 +70,7 @@ I build small, calm web tools: the kind that open with a double-click.<br/>
 
 <br/>
 
-<h3 align="center">░▒▓ &nbsp;STACK&nbsp; ▓▒░</h3>
+<h3 align="center"> &nbsp;STACK&nbsp; </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-0c0c0d?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
@@ -89,7 +89,7 @@ I build small, calm web tools: the kind that open with a double-click.<br/>
 
 <br/>
 
-<h3 align="center">░▒▓ &nbsp;STATS&nbsp; ▓▒░</h3>
+<h3 align="center"> &nbsp;STATS&nbsp; </h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=unfotable&show_icons=true&include_all_commits=true&count_private=false&bg_color=0c0c0d&title_color=3fae44&text_color=ededf0&icon_color=f2efe8&border_color=282420&border_radius=0" alt="GitHub stats" />
