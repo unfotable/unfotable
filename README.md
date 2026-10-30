@@ -1,169 +1,114 @@
+<!--
+  Self-contained: nothing to upload. Pixel type comes from the "Press Start 2P" font via readme-typing-svg.
+  Optional custom pixel scene: upload assets/pixel-banner.svg and assets/pixel-footer.svg, then swap the
+  two <picture> blocks (top and bottom) for:  <img src="assets/pixel-banner.svg" width="100%" />
+-->
+
 <div align="center">
 
-![Alternative text description]("C:\Users\devan\Downloads\pixel-hero.gif")
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=44&color=F2EFE8&center=true&vCenter=true&width=640&height=84&repeat=false&pause=1000&lines=HISAAB">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=44&color=0C0C0D&center=true&vCenter=true&width=640&height=84&repeat=false&pause=1000&lines=HISAAB" alt="HISAAB" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=34&color=F2EFE8&center=true&vCenter=true&width=640&height=70&repeat=false&pause=1000&lines=UNFOTABLE">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=34&color=0C0C0D&center=true&vCenter=true&width=640&height=70&repeat=false&pause=1000&lines=UNFOTABLE" alt="UNFOTABLE" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=7DDC82&center=true&vCenter=true&width=640&height=40&duration=2800&pause=1300&lines=WHO+OWES+WHOM,+AT+A+GLANCE.;NO+SIGN-UP.+NO+SERVER.;SPLIT+IT.+SETTLE+IT.+FORGET+IT.">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=226A28&center=true&vCenter=true&width=640&height=40&duration=2800&pause=1300&lines=WHO+OWES+WHOM,+AT+A+GLANCE.;NO+SIGN-UP.+NO+SERVER.;SPLIT+IT.+SETTLE+IT.+FORGET+IT." alt="Who owes whom, at a glance. No sign-up. No server. Split it. Settle it. Forget it." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=7DDC82&center=true&vCenter=true&width=640&height=40&duration=2800&pause=1300&lines=VERSATILE.;DEVELOPING+UNFOTABLE+NETWORK;MANAGING+ZEN+EMPIRE;LEARNING+PYTHON">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=226A28&center=true&vCenter=true&width=640&height=40&duration=2800&pause=1300&lines=VERSATILE.;DEVELOPING+UNFOTABLE+NETWORK;MANAGING+ZEN+EMPIRE;LEARNING+PYTHON" alt="Versatile. Developing UNFOTABLE NETWORK. Managing Zen Empire. Learning Python." />
 </picture>
 
 <br/>
 
-[![Open live demo](https://img.shields.io/badge/PRESS_START-OPEN_LIVE_DEMO-3fae44?style=for-the-badge&labelColor=0c0c0d)](https://splid.unfo.workers.dev/)
-
-<br/>
-
-![Stars](https://img.shields.io/github/stars/unfotable/splid?style=flat-square&labelColor=0c0c0d&color=3fae44&logo=github&logoColor=white)
-![Last commit](https://img.shields.io/github/last-commit/unfotable/splid?style=flat-square&labelColor=0c0c0d&color=3fae44&logo=git&logoColor=white)
-![Backend](https://img.shields.io/badge/backend-none-282420?style=flat-square&labelColor=0c0c0d)
-![Build step](https://img.shields.io/badge/build_step-none-282420?style=flat-square&labelColor=0c0c0d)
-![Data](https://img.shields.io/badge/data-stays_in_your_browser-282420?style=flat-square&labelColor=0c0c0d)
+[![Instagram](https://img.shields.io/badge/unfotable.dev-0c0c0d?style=flat-square&logo=instagram&logoColor=e4405f)](https://www.instagram.com/unfotable.dev/)
+[![Instagram](https://img.shields.io/badge/devanshu.fps-0c0c0d?style=flat-square&logo=instagram&logoColor=e4405f)](https://www.instagram.com/devanshu.fps/)
+[![Email](https://img.shields.io/badge/Email-0c0c0d?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:termi9al@gmail.com)
+[![Live apps](https://img.shields.io/badge/Live%20apps-0c0c0d?style=flat-square&logo=cloudflare&logoColor=f38020)](https://syncro.unfo.workers.dev/)
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 </div>
 
-<h3 align="center">░▒▓ &nbsp;ABOUT&nbsp; ▓▒░</h3>
+<h3 align="center"> &nbsp;ABOUT&nbsp; </h3>
 
 <p align="center">
-<b>Hisaab</b> (<i>हिसाब</i>, "the accounts") is a lightweight expense splitter for groups: trips, flatmates, dinners, anything shared.<br/>
-Log an expense, pick a split, and a live balance graph shows exactly who owes whom.
+I build small, calm web tools: the kind that open with a double-click.<br/>
+<code>no build step</code> &nbsp;·&nbsp; <code>zero dependencies</code> &nbsp;·&nbsp; <code>your data stays in your browser</code>
 </p>
 
 ```
-╔═[ HISAAB ]════════════════════════════════╗
-║  GENRE   : Expense splitter               ║
-║  SPLITS  : Equal / custom / percent       ║
-║  GRAPH   : Live SVG: direct + simplified  ║
-║  BACKEND : None                           ║
-║  BUILD   : None                           ║
-║  STORAGE : localStorage (your browser)    ║
-║  STACK   : React + htm + Tailwind         ║
+╔═[ PLAYER 1 ]══════════════════════════════╗
+║  PLAYER   : Devanshu / unfotable          ║
+║  CLASS    : Versatile                     ║
+║  QUEST    : Developing UNFOTABLE NETWORK  ║
+║  GUILD    : Managing Zen Empire           ║
+║  LEARNING : Python                        ║
+║  STYLE    : Small, calm web apps          ║
+║  LOCATION : India                         ║
 ╚═══════════════════════════════════════════╝
 ```
 
 <br/>
 
-<h3 align="center">░▒▓ &nbsp;FEATURES&nbsp; ▓▒░</h3>
+<h3 align="center"> &nbsp;PROJECTS&nbsp; </h3>
 
-- 👥 **Groups & members:** create any number of groups, add or remove people at any time
-- ⚖️ **Flexible splits:** equal, custom amounts, or percentages, set per expense
-- 🏷 **Categories:** food, travel, stay and misc, each with its own icon and color
-- 🕸 **Live balance graph:** an animated SVG of who owes whom, in **Direct** (every real debt) and **Simplified** (fewest payments) views
-- 🤝 **Settle up:** record full or partial payments; the graph and history update instantly
-- 🧾 **Activity timeline:** a chronological log of every expense and settlement, editable and deletable
-- 🧭 **Guided tour:** a coach-mark walkthrough on seeded demo data (the "Goa Trip" group)
-- 🔒 **Zero backend:** everything lives in `localStorage`; nothing leaves the browser
+#### 🧾 Hisaab &nbsp;<sub>[`unfotable/splid`](https://github.com/unfotable/splid)</sub>
 
-<br/>
+> **Who owes whom, at a glance.** A zero-backend expense splitter for trips, flatmates and dinners. Equal, custom or percentage splits, an animated SVG balance graph (Direct and Simplified views), settle-up and an activity timeline.
 
-<h3 align="center">░▒▓ &nbsp;HOW IT SIMPLIFIES&nbsp; ▓▒░</h3>
+`React` `htm` `Tailwind` `localStorage` &nbsp;→&nbsp; **[Live ↗](https://splid.unfo.workers.dev/)** · **[Source](https://github.com/unfotable/splid)**
 
-Every expense updates a pairwise ledger between members, and settlements subtract from it. From that ledger Hisaab derives three things: the **direct edges** (real person-to-person debts), each member's **net balance**, and the **simplified payments**, the fewest transfers that zero everyone out.
+#### 🗂 SYNCRO &nbsp;<sub>[`unfotable/syncro`](https://github.com/unfotable/syncro)</sub>
 
-A tiny example (illustrative numbers):
+> **Notes, sheets and boards, in sync with your flow.** A calm productivity workspace that fits in one browser tab: rich-text notes, formula sheets and drag-and-drop boards. Share read-only links, export to PDF or JSON, dark and light themes. Ink on paper, with a single green dot.
 
-```
-DIRECT (2 payments)            SIMPLIFIED (1 payment)
+`Vanilla JS` `HTML5` `CSS3` `Web Crypto` `0 dependencies` &nbsp;→&nbsp; **[Live ↗](https://syncro.unfo.workers.dev/)** · **[Source](https://github.com/unfotable/syncro)**
 
-  A --500--> B --500--> C        A ------500------> C
+#### 💬 unfochat &nbsp;<sub>[`unfotable/unfochat`](https://github.com/unfotable/unfochat)</sub>
 
-  net balance:  A -500   B 0   C +500
-```
+> A chat project, still taking shape.
 
-The simplified view uses a greedy pass: sort debtors and creditors by amount, match the largest debtor with the largest creditor, repeat.
-
-| Concept | Meaning |
-| --- | --- |
-| **Group** | Members, expenses and settlements together (e.g. "Goa Trip") |
-| **Expense** | An amount, a payer, a category and a split across members |
-| **Split** | `equal`, `custom` or `pct` (percentage) |
-| **Settlement** | A recorded payment between two members, full or partial |
-| **Net balance** | What a member is owed (+) or owes (−) across the group |
+`HTML5` `CSS3` `JavaScript` &nbsp;→&nbsp; **[Source](https://github.com/unfotable/unfochat)**
 
 <br/>
 
-<h3 align="center">░▒▓ &nbsp;FLOW&nbsp; ▓▒░</h3>
+<h3 align="center"> &nbsp;STACK&nbsp; </h3>
 
-```mermaid
-flowchart TD
-    A([Open app]) --> B{Existing groups?}
-    B -- No --> C[Demo group auto-seeded]
-    B -- Yes --> D[Home: list of groups]
-    C --> D
-    D --> E[Open a group]
-    E --> F[Balance tab]
-    F --> G[Add expense]
-    F --> H[Settle up]
-    F --> I[Switch Direct / Simplified]
-    G --> J[Graph and balances update instantly]
-    H --> J
-    I --> J
-    J --> K[Activity tab: log, edit, delete]
-    D --> M[Make it yours: wipe demo, create your own group]
-
-    classDef start fill:#3fae44,stroke:#3fae44,color:#0c0c0d
-    classDef ink fill:#282420,stroke:#f2efe8,color:#f2efe8
-    classDef decide fill:#19191c,stroke:#8b8b92,color:#ededf0
-    class A start
-    class B decide
-    class C,D,E,F,G,H,I,J,K,M ink
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0c0c0d?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0c0c0d?style=flat-square&logo=css3&logoColor=3b9ae1" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0c0c0d?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0c0c0d?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0c0c0d?style=flat-square&logo=tailwindcss&logoColor=06b6d4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-0c0c0d?style=flat-square&logo=python&logoColor=ffd43b" alt="Python" />
+  <br/>
+  <img src="https://img.shields.io/badge/Cloudflare-0c0c0d?style=flat-square&logo=cloudflare&logoColor=f38020" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/GitHub-0c0c0d?style=flat-square&logo=github&logoColor=ededf0" alt="GitHub" />
+  <img src="https://img.shields.io/badge/npm-0c0c0d?style=flat-square&logo=npm&logoColor=cb3837" alt="npm" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-0c0c0d?style=flat-square&logo=windowsterminal&logoColor=ededf0" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-0c0c0d?style=flat-square&logo=adobepremierepro&logoColor=9999ff" alt="Adobe Premiere Pro" />
+</p>
 
 <br/>
 
-<h3 align="center">░▒▓ &nbsp;QUICK START&nbsp; ▓▒░</h3>
+<h3 align="center"> &nbsp;STATS&nbsp; </h3>
 
-Clone or download the project, then open `index.html` in a browser, or serve the folder with any static file server:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=unfotable&show_icons=true&include_all_commits=true&count_private=false&bg_color=0c0c0d&title_color=3fae44&text_color=ededf0&icon_color=f2efe8&border_color=282420&border_radius=0" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=unfotable&layout=compact&langs_count=6&bg_color=0c0c0d&title_color=3fae44&text_color=ededf0&border_color=282420&border_radius=0" alt="Top languages" />
+</p>
 
-```bash
-# Option 1: just open it
-open index.html
-
-# Option 2: serve it locally
-npx serve .
-```
-
-That's it. On first load the app seeds a demo group ("Goa Trip") so there's something to explore right away.
-
-```
-.
-├── index.html   # entry point: CDN script tags, Tailwind config and the app shell
-├── app.js       # components, state, money math, demo data
-├── styles.css   # form primitives, keyframe animations, range-input styling
-└── logo_s.svg   # logo
-```
-
-<br/>
-
-<h3 align="center">░▒▓ &nbsp;MAKE IT YOURS&nbsp; ▓▒░</h3>
-
-- 🎨 **Colors & fonts:** edit the `tailwind.config` block in `index.html`
-- 🏷 **Categories:** add or edit entries in the `CATS` object in `app.js`
-- 🧑 **Avatar palette:** the `AV` array in `app.js` controls member colors
-- 🧭 **Tour copy:** edit `TOUR_STEPS` in `app.js` to change the onboarding text
-
-<br/>
-
-<h3 align="center">░▒▓ &nbsp;DATA &amp; PRIVACY&nbsp; ▓▒░</h3>
-
-> Hisaab stores everything under a single `localStorage` key, `hisaab.v2`. There is no server, no account and no network request involving your data. Clearing the browser's storage for the page resets the app to the seeded demo.
-
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=unfotable&background=0C0C0D&border=282420&stroke=282420&ring=3FAE44&fire=3FAE44&currStreakNum=EDEDF0&sideNums=EDEDF0&currStreakLabel=EDEDF0&sideLabels=8B8B92&dates=8B8B92&border_radius=0" alt="GitHub streak" />
+</p>
 
 <div align="center">
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=7DDC82&center=true&vCenter=true&width=520&height=34&duration=2200&pause=1600&lines=PRESS+START;HAPPY+SPLITTING">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=226A28&center=true&vCenter=true&width=520&height=34&duration=2200&pause=1600&lines=PRESS+START;HAPPY+SPLITTING" alt="Press start. Happy splitting." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=7DDC82&center=true&vCenter=true&width=520&height=34&duration=2200&pause=1600&lines=PRESS+START;THANKS+FOR+VISITING">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=226A28&center=true&vCenter=true&width=520&height=34&duration=2200&pause=1600&lines=PRESS+START;THANKS+FOR+VISITING" alt="Press start. Thanks for visiting." />
 </picture>
 
-Built by [**@unfotable**](https://github.com/unfotable) &nbsp;·&nbsp; Also made: [**SYNCRO**](https://github.com/unfotable/syncro), notes, sheets and boards in one tab
+<img src="https://komarev.com/ghpvc/?username=unfotable&label=PROFILE%20VIEWS&color=3fae44&labelColor=0c0c0d&style=flat-square" alt="Profile views" />
 
 </div>
