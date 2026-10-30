@@ -35,14 +35,14 @@ I build small, calm web tools: the kind that open with a double-click.<br/>
 </p>
 
 ```
-╔═[ PLAYER 1 ]══════════════════════════════╗
+╔═[ PLAYER 007 ]════════════════════════════╗
 ║  PLAYER   : Devanshu / unfotable          ║
 ║  CLASS    : Versatile                     ║
-║  QUEST    : Developing UNFOTABLE NETWORK  ║
-║  GUILD    : Managing Zen Empire           ║
+║  QUEST    : UNFOTABLE NETWORK             ║
+║  GUILD    : ARSNEL                        ║
 ║  LEARNING : Python                        ║
-║  STYLE    : Small, calm web apps          ║
-║  LOCATION : India                         ║
+║  STYLE    : calm web apps                 ║
+║  LOCATION : earth                         ║
 ╚═══════════════════════════════════════════╝
 ```
 
