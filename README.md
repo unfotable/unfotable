@@ -1,6 +1,15 @@
+<!--
+  Self-contained: nothing to upload. Pixel type comes from the "Press Start 2P" font via readme-typing-svg.
+  Optional custom pixel scene: upload assets/pixel-banner.svg and assets/pixel-footer.svg, then swap the
+  two <picture> blocks (top and bottom) for:  <img src="assets/pixel-banner.svg" width="100%" />
+-->
+
 <div align="center">
 
-<img src="assets/pixel-hero.gif" width="100%" alt="Pixel-art welcome banner for UNFOTABLE NETWORK" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=34&color=F2EFE8&center=true&vCenter=true&width=640&height=70&repeat=false&pause=1000&lines=UNFOTABLE">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=34&color=0C0C0D&center=true&vCenter=true&width=640&height=70&repeat=false&pause=1000&lines=UNFOTABLE" alt="UNFOTABLE" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=7DDC82&center=true&vCenter=true&width=640&height=40&duration=2800&pause=1300&lines=VERSATILE.;DEVELOPING+UNFOTABLE+NETWORK;MANAGING+ZEN+EMPIRE;LEARNING+PYTHON">
@@ -18,14 +27,14 @@
 
 </div>
 
-<h3 align="center">ABOUT</h3>
+<h3 align="center"> &nbsp;ABOUT&nbsp; </h3>
 
 <p align="center">
 I build small, calm web tools: the kind that open with a double-click.<br/>
-<code>no build step</code> · <code>zero dependencies</code> · <code>your data stays in your browser</code>
+<code>no build step</code> &nbsp;·&nbsp; <code>zero dependencies</code> &nbsp;·&nbsp; <code>your data stays in your browser</code>
 </p>
 
-```text
+```
 ╔═[ PLAYER 007 ]════════════════════════════╗
 ║  PLAYER   : Devanshu / unfotable          ║
 ║  CLASS    : Versatile                     ║
@@ -39,35 +48,29 @@ I build small, calm web tools: the kind that open with a double-click.<br/>
 
 <br/>
 
-<h3 align="center">PROJECTS</h3>
+<h3 align="center"> &nbsp;PROJECTS&nbsp; </h3>
 
-#### 🧾 Hisaab <sub>[`unfotable/splid`](https://github.com/unfotable/splid)</sub>
+#### 🧾 Hisaab &nbsp;<sub>[`unfotable/splid`](https://github.com/unfotable/splid)</sub>
 
 > **Who owes whom, at a glance.** A zero-backend expense splitter for trips, flatmates and dinners. Equal, custom or percentage splits, an animated SVG balance graph (Direct and Simplified views), settle-up and an activity timeline.
 
-`React` `htm` `Tailwind` `localStorage` → **[Live ↗](https://splid.unfo.workers.dev/)** · **[Source](https://github.com/unfotable/splid)**
+`React` `htm` `Tailwind` `localStorage` &nbsp;→&nbsp; **[Live ↗](https://splid.unfo.workers.dev/)** · **[Source](https://github.com/unfotable/splid)**
 
-#### 🗂 SYNCRO <sub>[`unfotable/syncro`](https://github.com/unfotable/syncro)</sub>
+#### 🗂 SYNCRO &nbsp;<sub>[`unfotable/syncro`](https://github.com/unfotable/syncro)</sub>
 
 > **Notes, sheets and boards, in sync with your flow.** A calm productivity workspace that fits in one browser tab: rich-text notes, formula sheets and drag-and-drop boards. Share read-only links, export to PDF or JSON, dark and light themes. Ink on paper, with a single green dot.
 
-`Vanilla JS` `HTML5` `CSS3` `Web Crypto` `0 dependencies` → **[Live ↗](https://syncro.unfo.workers.dev/)** · **[Source](https://github.com/unfotable/syncro)**
+`Vanilla JS` `HTML5` `CSS3` `Web Crypto` `0 dependencies` &nbsp;→&nbsp; **[Live ↗](https://syncro.unfo.workers.dev/)** · **[Source](https://github.com/unfotable/syncro)**
 
-#### 💬 unfochat <sub>[`unfotable/unfochat`](https://github.com/unfotable/unfochat)</sub>
+#### 💬 unfochat &nbsp;<sub>[`unfotable/unfochat`](https://github.com/unfotable/unfochat)</sub>
 
 > A chat project, still taking shape.
 
-`HTML5` `CSS3` `JavaScript` → **[Source](https://github.com/unfotable/unfochat)**
+`HTML5` `CSS3` `JavaScript` &nbsp;→&nbsp; **[Source](https://github.com/unfotable/unfochat)**
 
 <br/>
 
-<div align="center">
-  <img src="assets/pixel-hero.gif" width="100%" alt="UNFOTABLE NETWORK pixel-art landscape" />
-</div>
-
-<br/>
-
-<h3 align="center">STACK</h3>
+<h3 align="center"> &nbsp;STACK&nbsp; </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-0c0c0d?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
@@ -86,7 +89,7 @@ I build small, calm web tools: the kind that open with a double-click.<br/>
 
 <br/>
 
-<h3 align="center">STATS</h3>
+<h3 align="center"> &nbsp;STATS&nbsp; </h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=unfotable&show_icons=true&include_all_commits=true&count_private=false&bg_color=0c0c0d&title_color=3fae44&text_color=ededf0&icon_color=f2efe8&border_color=282420&border_radius=0" alt="GitHub stats" />
