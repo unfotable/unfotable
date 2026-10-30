@@ -3,6 +3,7 @@
   Optional custom pixel scene: upload assets/pixel-banner.svg and assets/pixel-footer.svg, then swap the
   two <picture> blocks (top and bottom) for:  <img src="assets/pixel-banner.svg" width="100%" />
 -->
+![Welcome to Hishabe](pixel-hero.gif)
 
 <div align="center">
 
