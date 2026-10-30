@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pixel-hero.gif" alt="Welcome to Hisaab. Who owes whom, at a glance." width="800" />
+<img src="pixel-hero.gif" alt="Welcome to Hisaab. Who owes whom, at a glance." width="800" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<div align="center"><img src="assets/h-about.png" alt="About" width="800" /></div>
+<div align="center"><img src="h-about.png" alt="About" width="800" /></div>
 
 <p align="center">
 <b>Hisaab</b> (<i>हिसाब</i>, "the accounts") is a lightweight expense splitter for groups: trips, flatmates, dinners, anything shared.<br/>
@@ -39,7 +39,7 @@ Log an expense, pick a split, and a live balance graph shows exactly who owes wh
 
 <br/>
 
-<div align="center"><img src="assets/h-features.png" alt="Features" width="800" /></div>
+<div align="center"><img src="h-features.png" alt="Features" width="800" /></div>
 
 - 👥 **Groups & members:** create any number of groups, add or remove people at any time
 - ⚖️ **Flexible splits:** equal, custom amounts, or percentages, set per expense
@@ -52,7 +52,7 @@ Log an expense, pick a split, and a live balance graph shows exactly who owes wh
 
 <br/>
 
-<div align="center"><img src="assets/h-how.png" alt="How it works" width="800" /></div>
+<div align="center"><img src="h-how.png" alt="How it works" width="800" /></div>
 
 Every expense updates a pairwise ledger between members, and settlements subtract from it. From that ledger Hisaab derives three things: the **direct edges** (real person-to-person debts), each member's **net balance**, and the **simplified payments**, the fewest transfers that zero everyone out.
 
@@ -107,7 +107,7 @@ flowchart TD
 
 <br/>
 
-<div align="center"><img src="assets/h-start.png" alt="Quick start" width="800" /></div>
+<div align="center"><img src="h-start.png" alt="Quick start" width="800" /></div>
 
 Clone or download the project, then open `index.html` in a browser, or serve the folder with any static file server:
 
@@ -127,7 +127,8 @@ That's it. On first load the app seeds a demo group ("Goa Trip") so there's some
 ├── app.js       # components, state, money math, demo data
 ├── styles.css   # form primitives, keyframe animations, range-input styling
 ├── logo_s.svg   # logo
-└── assets/      # README images: pixel hero/footer GIFs and section headers
+├── pixel-hero.gif / pixel-footer.gif   # README banner GIFs
+└── h-*.png      # README section headers
 ```
 
 <br/>
@@ -141,7 +142,7 @@ That's it. On first load the app seeds a demo group ("Goa Trip") so there's some
 
 <br/>
 
-<div align="center"><img src="assets/h-privacy.png" alt="Privacy" width="800" /></div>
+<div align="center"><img src="h-privacy.png" alt="Privacy" width="800" /></div>
 
 > Hisaab stores everything under a single `localStorage` key, `hisaab.v2`. There is no server, no account and no network request involving your data. Clearing the browser's storage for the page resets the app to the seeded demo.
 
@@ -151,7 +152,7 @@ That's it. On first load the app seeds a demo group ("Goa Trip") so there's some
 
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
-<img src="assets/pixel-footer.gif" alt="Happy splitting, by Devanshu." width="800" />
+<img src="pixel-footer.gif" alt="Happy splitting, by Devanshu." width="800" />
 
 Built by [**@unfotable**](https://github.com/unfotable) &nbsp;·&nbsp; Also made: [**SYNCRO**](https://github.com/unfotable/syncro), notes, sheets and boards in one tab
 
