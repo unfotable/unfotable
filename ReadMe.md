@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0c0d,100:282420&height=190&section=header&text=unfotable&fontSize=54&fontColor=f2efe8&fontAlignY=40&desc=Devanshu%20%E3%83%84%20%C2%B7%20small%2C%20calm%20web%20apps&descSize=16&descAlignY=64&descColor=8b8b92&animation=fadeIn" width="100%" alt="unfotable — Devanshu, small calm web apps" />
-
-<a href="https://github.com/unfotable">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=3FAE44&center=true&vCenter=true&width=480&height=34&lines=Versatile.;Developing+UNFOTABLE+NETWORK;Managing+Zen+Empire;Learning+Python" alt="Versatile. Developing UNFOTABLE NETWORK. Managing Zen Empire. Learning Python." />
-</a>
+<img src="assets/pixel-banner.svg" width="100%" alt="Pixel-art banner: unfotable. Versatile. Developing UNFOTABLE NETWORK. Managing Zen Empire. Learning Python." />
 
 <br/>
 
@@ -94,4 +90,4 @@ I build small, calm web tools: the kind that open with a double-click.<br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0c0d,100:282420&height=70&section=footer" width="100%" alt="" />
+<img src="assets/pixel-footer.svg" width="100%" alt="Press start" />
