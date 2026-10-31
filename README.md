@@ -62,7 +62,7 @@
 
 `Vanilla JS` `HTML5` `CSS3` `Web Crypto` `0 dependencies` &nbsp;→&nbsp; **[Live ↗](https://syncro.unfo.workers.dev/)** · **[Source](https://github.com/unfotable/syncro)**
 
-#### 💬 ARSNEL &nbsp;<sub>[`unfotable/ACEBYDEV`](https://github.com/unfotable/ACEBYDEV)</sub>
+#### 💬 ACEBYDEV &nbsp;<sub>[`unfotable/ACEBYDEV`](https://github.com/unfotable/ACEBYDEV)</sub>
 
 > A chat project, still taking shape.
 
