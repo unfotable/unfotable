@@ -50,7 +50,7 @@
 
 <h3 align="center"> &nbsp;PROJECTS&nbsp; </h3>
 
-#### 🧾 Hisaab &nbsp;<sub>[`unfotable/splid`](https://github.com/unfotable/splid)</sub>
+#### 🧾 SPLID &nbsp;<sub>[`unfotable/splid`](https://github.com/unfotable/splid)</sub>
 
 > **Who owes whom, at a glance.** A zero-backend expense splitter for trips, flatmates and dinners. Equal, custom or percentage splits, an animated SVG balance graph (Direct and Simplified views), settle-up and an activity timeline.
 
@@ -62,7 +62,7 @@
 
 `Vanilla JS` `HTML5` `CSS3` `Web Crypto` `0 dependencies` &nbsp;→&nbsp; **[Live ↗](https://syncro.unfo.workers.dev/)** · **[Source](https://github.com/unfotable/syncro)**
 
-#### 💬 unfochat &nbsp;<sub>[`unfotable/unfochat`](https://github.com/unfotable/unfochat)</sub>
+#### 💬 ARSNEL &nbsp;<sub>[`unfotable/ACEBYDEV`](https://github.com/unfotable/ACEBYDEV)</sub>
 
 > A chat project, still taking shape.
 
