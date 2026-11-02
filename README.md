@@ -21,7 +21,6 @@
 [![Instagram](https://img.shields.io/badge/arc.of.dev-0c0c0d?style=flat-square&logo=instagram&logoColor=e4405f)](https://www.instagram.com/arc.of.dev)
 [![Instagram](https://img.shields.io/badge/devanshu.fps-0c0c0d?style=flat-square&logo=instagram&logoColor=e4405f)](https://www.instagram.com/devanshu.fps/)
 [![Email](https://img.shields.io/badge/Email-0c0c0d?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:termi9al@gmail.com)
-[![Live apps](https://img.shields.io/badge/)](https://syncro.unfo.workers.dev/)
 
 ‧˚₊‧ ┈┈┈ ⟡ ┈┈┈ ‧₊˚⊹
 
