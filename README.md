@@ -75,15 +75,13 @@
   <img src="https://img.shields.io/badge/HTML5-0c0c0d?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0c0c0d?style=flat-square&logo=css3&logoColor=3b9ae1" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-0c0c0d?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-0c0c0d?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0c0c0d?style=flat-square&logo=tailwindcss&logoColor=06b6d4" alt="Tailwind CSS" />
+
   <img src="https://img.shields.io/badge/Python-0c0c0d?style=flat-square&logo=python&logoColor=ffd43b" alt="Python" />
   <br/>
-  <img src="https://img.shields.io/badge/Cloudflare-0c0c0d?style=flat-square&logo=cloudflare&logoColor=f38020" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/GitHub-0c0c0d?style=flat-square&logo=github&logoColor=ededf0" alt="GitHub" />
-  <img src="https://img.shields.io/badge/npm-0c0c0d?style=flat-square&logo=npm&logoColor=cb3837" alt="npm" />
+
   <img src="https://img.shields.io/badge/Windows%20Terminal-0c0c0d?style=flat-square&logo=windowsterminal&logoColor=ededf0" alt="Windows Terminal" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-0c0c0d?style=flat-square&logo=adobepremierepro&logoColor=9999ff" alt="Adobe Premiere Pro" />
+
 </p>
 
 <br/>
