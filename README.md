@@ -65,7 +65,7 @@
 
 > A chat project, still taking shape.
 
-`HTML5` `CSS3` `JavaScript` &nbsp;→&nbsp; **[Source](https://github.com/unfotable/unfochat)**
+`HTML5` `CSS3` `JavaScript` &nbsp;→&nbsp; **[Live ↗](https://acebydev.unfo.workers.dev/)** **[Source](https://github.com/unfotable/unfochat)**
 
 <br/>
 
