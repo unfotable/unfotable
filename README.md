@@ -34,15 +34,6 @@
 </p>
 
 ```
-╔═[ PLAYER 007 ]════════════════════════════╗
-║  PLAYER   : Devanshu / unfotable          ║
-║  CLASS    : Versatile                     ║
-║  QUEST    : UNFOTABLE NETWORK             ║
-║  GUILD    : ARSNEL                        ║
-║  LEARNING : Python                        ║
-║  STYLE    : calm web apps                 ║
-║  LOCATION : earth                         ║
-╚═══════════════════════════════════════════╝
 ```
 
 <br/>
